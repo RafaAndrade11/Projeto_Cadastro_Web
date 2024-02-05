@@ -1,0 +1,17 @@
+br\com\randrade\domain\Cliente.class
+br\com\randrade\exceptions\TipoElementoNaoConhecidoException.class
+br\com\randrade\service\ClienteService.class
+br\com\randrade\domain\Persistente.class
+br\com\randrade\dao\generic\GenericDAO.class
+br\com\randrade\exceptions\MaisDeUmRegistroException.class
+br\com\randrade\controller\IndexController.class
+br\com\randrade\services\generic\GenericService.class
+br\com\randrade\dao\IClienteDAO.class
+br\com\randrade\controller\ClienteController.class
+br\com\randrade\exceptions\TableException.class
+br\com\randrade\services\generic\IGenericService.class
+br\com\randrade\dao\ClienteDAO.class
+br\com\randrade\exceptions\DAOException.class
+br\com\randrade\exceptions\TipoChaveNaoEncontradaException.class
+br\com\randrade\dao\generic\IGenericDAO.class
+br\com\randrade\service\IClienteService.class
